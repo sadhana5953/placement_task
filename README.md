@@ -1,16 +1,23 @@
-# placement_task
+# Daily-Task
+## 📝 Todo App with API Integration and Dynamic Features
 
-A new Flutter project.
+This Todo app showcases key features:
 
-## Getting Started
+🌐 **API Integration**: Fetch todos from JSONPlaceholder.
 
-This project is a starting point for a Flutter application.
+🔄 **List & Grid View Toggle**: Switch between List/Grid views with a toggle and save the preferred view using Shared Preferences.
 
-A few resources to get you started if this is your first Flutter project:
+🎨 **Todo Status Differentiation**: Completed todos have a green background ✅, and pending todos are red ❌.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+🌗 **Dark & Light Theme Support**: Toggle between themes and save the last selected theme with Shared Preferences.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+✨ **Attractive & Responsive UI**: Visually appealing, fully responsive design across devices.
+
+<img src="https://github.com/user-attachments/assets/214d53dc-d68e-4033-b56b-9cc1886239c9" height=35% width=22%>
+<img src="https://github.com/user-attachments/assets/9e3baa46-cb22-4e3a-a789-d685e96cd735" height=35% width=22%>
+<img src="https://github.com/user-attachments/assets/d07ed0c0-168f-4edb-9c61-d7490df33b5a" height=35% width=22%>
+<img src="https://github.com/user-attachments/assets/91b2e4ca-4f98-4aaa-a9fc-785a6d6358cd" height=35% width=22%>
+
+
+https://github.com/user-attachments/assets/ebf4986a-89ee-482d-8852-8996a16b7db0
+
